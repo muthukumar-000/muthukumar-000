@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **web design**
 
 - 🌱 I’m currently learning **full-stack, web developer**
 
@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **job**
 
-- 💬 Ask me about ****
+- 💬 Ask me about
 
 - 📫 How to reach me :<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 
