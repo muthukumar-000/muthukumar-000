@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUTHUKUMAR</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate BE postgraduate</h3>
 
 <img align="center" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -9,15 +9,15 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **developer**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **full-stack web developer**
+- 🌱 I’m currently learning **full-stack, web developer**
 
-- 👯 I’m looking to collaborate on **python-javascript-css-html-git-mysql**
+- 👯 I’m looking to collaborate on **python**
 
 - 🤝 I’m looking for help with **job**
 
-- 💬 Ask me about **Tech**
+- 💬 Ask me about ****
 
 - 📫 How to reach me :<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 
