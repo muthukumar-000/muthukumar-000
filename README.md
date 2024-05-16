@@ -3,11 +3,11 @@
 
 <img align="center" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muthukumar-000&label=Profile%20views&color=0e75b6&style=flat" alt="muthukumar-000" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muthukumar-000&label=Profile%20views&color=0e75b6&style=flat" alt="muthukumar-000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muthukumar-000" alt="muthukumar-000" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muthukumar-000" alt="muthukumar-000" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **developer**
 
