@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muthukumar-000&show_icons=true&locale=en" alt="muthukumar-000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muthukumar-000&" alt="muthukumar-000" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/muthukumar-000?theme=forest&font=Oxanium&ext=activity)
