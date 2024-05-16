@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **job**
 
-- 💬 Ask me about **python css django html javascript git mysql mongodb**
+- 💬 Ask me about **python/ css/ django/ html/ javascript/ git/ mysql/ mongodb**
 
 - 📫 How to reach me **githuplogin@gamil.com**
 
