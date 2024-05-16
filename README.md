@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **web-page**
+- 🔭 I’m currently working on **developer**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **full-stack web developer**
 
-- 👯 I’m looking to collaborate on **fullstack**
+- 👯 I’m looking to collaborate on **python-javascript-css-html-git-mysql**
 
 - 🤝 I’m looking for help with **job**
 
-- 💬 Ask me about **python/ css/ django/ html/ javascript/ git/ mysql/ mongodb**
+- 💬 Ask me about **Tech**
 
-- 📫 How to reach me **githuplogin@gamil.com**
+- 📫 How to reach me **githuplogin@gamil.com    https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
