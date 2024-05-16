@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm MUTHUKUMAR</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/)
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscription/UCneNjmTXf4yL2D7dWeFGV_A)
-
-
 <img align="center" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthukumar-000&label=Profile%20views&color=0e75b6&style=flat" alt="muthukumar-000" /> </p>
 
