@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MUTHUKUMAR</h1>
 <h3 align="center">A passionate BE postgraduate</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muthukumar-000&label=Profile%20views&color=0e75b6&style=flat" alt="muthukumar-000" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=muthukumar-000&label=Profile%20views&color=0e75b6&style=flat" alt="muthukumar-000" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muthukumar-000" alt="muthukumar-000" /></a> </p>
 
